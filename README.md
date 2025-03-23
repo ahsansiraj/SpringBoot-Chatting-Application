@@ -47,7 +47,7 @@ A real-time chat application built using Spring Boot for the backend and HTML, C
     Open your browser and go to: `http://localhost:8080`
 
 📂 **Project Structure**
-
+```
 chat-application/
 ├── src/
 │   ├── main/
@@ -63,8 +63,7 @@ chat-application/
 │   │   │   ├── index.html       # 🏠 Chat UI
 │   │   ├── application.yml      # ⚙️ App Configuration
 ├── pom.xml                      # 📌 Maven Dependencies
-
-
+```
 🔗 **WebSocket API Endpoints**
 
 | Endpoint      | Method | Description                                      |
